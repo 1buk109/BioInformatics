@@ -1,0 +1,9 @@
+# untracked folder
+decks
+reports
+__pycache__
+
+# untracked files
+settings.txt
+z-backward.py
+z-forward.py
